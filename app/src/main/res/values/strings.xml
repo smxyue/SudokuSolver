@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SudokuSolver</string>
+    <string name="wellcome">欢迎光临数独解题者</string>
+</resources>
